@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HackIt</string>
+    <string name="accessibility_service_description">Replacement of "Android" to "Hacked" anywhere in the phone</string>
+    <string name="accessibility_service_label">HackIt</string>
+    <string name="appInfoDialog">HackIt requires you to enable the accessibility service to be able to function.Please Enable it from the settings</string>
+    <string name="openAccessibilitySettings">Open Accessibility Settings</string>
+    <string name="useInfo">Use Info</string>
+    <string name="infomsg">Type anywhere Android in your System and see the magic</string>
+</resources>
